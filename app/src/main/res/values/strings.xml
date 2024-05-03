@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CatalogApp</string>
+    <string name="reset_filters">Reset filters</string>
+    <string name="apply_filters">Apply filters</string>
+    <string name="search">Search...</string>
+    <string name="images">Images:</string>
+    <string name="no_image_information">No images found</string>
+    <string name="product_price">Price: %s$</string>
+    <string name="product_stock">Stock: %s</string>
+    <string name="product_brand">Brand: %s</string>
+    <string name="product_category">Category: %s</string>
+    <string name="product_rating">★ %s</string>
+    <string name="choose_category">Choose category</string>
+</resources>
